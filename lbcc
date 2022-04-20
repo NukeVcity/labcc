@@ -18,9 +18,9 @@ main.Size = UDim2.new(0, 214, 0, 260)
 main.Active = true
 main.Draggable = true
 
-DupedMethodMadeByPr4ston.Name = "Duped Method | Made By Pr4ston"
+DupedMethodMadeByPr4ston.Name = "Duped Method | Duper Community"
 DupedMethodMadeByPr4ston.Parent = main
-DupedMethodMadeByPr4ston.BackgroundColor3 = Color3.fromRGB(190, 190, 190)
+DupedMethodMadeByPr4ston.BackgroundColor3 = Color3.fromRGB(255, 215, 0)
 DupedMethodMadeByPr4ston.Position = UDim2.new(-0.000352235977, 0, 0, 0)
 DupedMethodMadeByPr4ston.Size = UDim2.new(0, 215, 0, 56)
 DupedMethodMadeByPr4ston.Font = Enum.Font.SourceSans
